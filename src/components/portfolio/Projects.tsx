@@ -13,7 +13,7 @@ const projects = [
     image: "/High_Tide.png",
     links: {
       demo: null,
-      github: null,
+      github: "https://github.com/Tombsand/HighTide-Fe",
     },
   },
   {
@@ -25,7 +25,7 @@ const projects = [
     image: "/SOS_Admin_Dashboard.png",
     links: {
       demo: null,
-      github: null,
+      github: "https://github.com/Tombsand/SOS-Tamani-Dashboard",
     },
   },
   {
@@ -33,11 +33,11 @@ const projects = [
     description:
       "A Portofolio Website build using React and tailwind.",
     icon: FolderPlus, 
-    technologies: ["React", "Tailwind"],
+    technologies: ["React", "Tailwind", "Vite"],
     image: "/Portofolio.png",
     links: {
       demo: null,
-      github: null,
+      github: "https://github.com/Tombsand/Portofolio",
     },
   },
 ];
