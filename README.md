@@ -1,3 +1,14 @@
+## Portfolio
+
+This web portfolio is a personal website that showcases my profile, skills, experience, and projects I have worked on. It is designed as a platform for personal branding and as a professional portfolio in the field of Web Development and Software Engineering.
+
+## Author
+
+GitHub: https://github.com/Tombsand
+LinkedIn: https://www.linkedin.com/in/paulus-steven-lie/
+
+## How to run the web
+
 Follow these steps to install:
 
 ```sh
@@ -13,12 +24,6 @@ npm i
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
 
 ## What technologies are used for this project?
 
